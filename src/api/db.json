@@ -1,0 +1,90 @@
+{
+    "colaboradores": [
+        {
+            "id": 1,
+            "equipo": "Front-End",
+            "foto": "https://github.com/Gsanchezdiaz.png",
+            "nombre": "Gerson Sanchez",
+            "puesto": "Estudiante de Alura Latam"
+        },
+        {
+            "id": 2,
+            "equipo": "Front-End",
+            "foto": "https://github.com/harlandlohora.png",
+            "nombre": "Harald Lohora",
+            "puesto": "Instructor en Alura Latam"
+        },
+        {
+            "id": 3,
+            "equipo": "Programación",
+            "foto": "https://github.com/genesysaluralatam.png",
+            "nombre": "Genesys Rondón",
+            "puesto": "Desarrolladora de software e instructora"
+        },
+        {
+            "id": 4,
+            "equipo": "Programación",
+            "foto": "https://github.com/christianpva.png",
+            "nombre": "Christian Velasco",
+            "puesto": "Head de Alura e instructor"
+        },
+        {
+            "id": 5,
+            "equipo": "UX y Diseño",
+            "foto": "https://github.com/JeanmarieAluraLatam.png",
+            "nombre": "Jeanmarie Quijada",
+            "puesto": "Instructora en Alura Latam"
+        },
+        {
+            "id": 6,
+            "equipo": "Innovación y Gestión",
+            "foto": "https://github.com/JoseDarioGonzalezCha.png",
+            "nombre": "Jose Gonzalez",
+            "puesto": "Dev FullStack"
+        }
+    ],
+    "equipos": [
+        {
+            "id": 1,
+            "titulo": "Programación",
+            "colorDestaque": "#57C278",
+            "colorFondo": "#D9F7E9"
+        },
+        {
+            "id": 2,
+            "titulo": "Front-End",
+            "colorDestaque": "#82CFFA",
+            "colorFondo": "#E8F8FF"
+        },
+        {
+            "id": 3,
+            "titulo": "Data Science",
+            "colorDestaque": "#A6D157",
+            "colorFondo": "#F0F8E2"
+        },
+        {
+            "id": 4,
+            "titulo": "Devops",
+            "colorDestaque": "#E06B69",
+            "colorFondo": "#FDE7E8"
+        },
+        {
+            "id": 5,
+            "titulo": "UX y Diseño",
+            "colorDestaque": "#DB6EBF",
+            "colorFondo": "#FAE9F5"
+        },
+        {
+            "id": 6,
+            "titulo": "Movil",
+            "colorDestaque": "#FFBA05",
+            "colorFondo": "#FFF5D9"
+        },
+        {
+            "id": 7,
+            "titulo": "Innovación y Gestión",
+            "colorDestaque": "#FF8A29",
+            "colorFondo": "#FFEEDF"
+        }
+    ]
+}

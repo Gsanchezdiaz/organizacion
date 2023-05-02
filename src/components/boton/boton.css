@@ -1,0 +1,16 @@
+.boton {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    color: #FFFFFF;
+    font-weight: 700;
+    padding: 20px 40px;
+
+    background-color: #6278F7;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.boton:hover{
+    color: #95FFD4;
+}
